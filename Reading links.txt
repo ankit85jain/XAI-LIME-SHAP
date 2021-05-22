@@ -1,0 +1,2 @@
+https://medium.com/analytics-vidhya/shap-part-3-tree-shap-3af9bcd7cd9b
+https://shap.readthedocs.io/en/latest/tabular_examples.html
